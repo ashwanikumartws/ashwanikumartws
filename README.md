@@ -1,5 +1,8 @@
 ## Hello👋. Thank you for visiting my profile 👩🏾‍💻 
 
+![Header Image](https://staging30.tekkiwebsolutions.com/wp-content/uploads/header-image.png)
+
+
 I am a highly skilled Full Stack Developer specializing in **MERN Stack** (MongoDB, Express.js, React.js, Node.js), **PHP**, and **Laravel**. With a deep understanding of cloud platforms like **AWS**, **Azure**, and **Firebase**, I deliver robust and scalable web solutions tailored to meet business needs.
 
 
