@@ -53,16 +53,6 @@ Additionally, I have excellent **communication** and **management skills**, maki
 
 - Exploring Web 3.0 technologies and developing personal projects related to it.
 
-## 📫 How to Reach Me
-
-- Email: [Your email]
-- LinkedIn: [Your LinkedIn]
-- Twitter: [Your Twitter]
-- Personal Website: [Your Website]
-
-Feel free to connect with me, I'd love to collaborate and learn together! 🚀
-
-
 
 ## 🌟 Languages & Tools
 
