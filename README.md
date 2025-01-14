@@ -4,8 +4,6 @@
 
 ## 🚀 About Me
 
-# 👋 Hi there! 
-
 I’m a **Senior Full-Stack Developer** specializing in **MERN Stack** (MongoDB, Express.js, React.js, Node.js), **PHP**, and **Laravel**. 
 
 With over **8 years of experience**, I’ve had the privilege of collaborating with **70+ companies** worldwide, delivering **high-performance**, **scalable web solutions** across various industries, including:
