@@ -86,7 +86,6 @@ I’m passionate about transforming innovative ideas into robust software soluti
 - **Others**:
   - Git & GitHub 🦸‍♂️
   - Bash 🖥️
-  - Web 3.0 🌍
 
 
 ## 🌍 Where To Find Me
