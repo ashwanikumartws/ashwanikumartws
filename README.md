@@ -88,12 +88,6 @@ I’m passionate about transforming innovative ideas into robust software soluti
   - Bash 🖥️
   - Web 3.0 🌍
 
-## 🌱 Currently Learning
-
-- Exploring Web 3.0 technologies and developing personal projects related to it.
-
-
-
 
 ## 🌍 Where To Find Me
 
@@ -113,5 +107,5 @@ I’m passionate about transforming innovative ideas into robust software soluti
 
 ##👯 I’m looking to collaborate on **Full Stack Development Projects**.
 
-😄 **Passion:** | Full Stack Developer | Contributor | Web3.0 & DevOps Enthusiast | Coder | Tech Lover | Music Enthusiast
+😄 **Passion:** | Full Stack Developer | Contributor |  DevOps Enthusiast | Coder | Tech Lover | Music Enthusiast
 
