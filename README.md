@@ -5,9 +5,26 @@
 
 ## 🚀 About Me
 
-I am a highly skilled **Full Stack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), **PHP**, and **Laravel**. With a deep understanding of cloud platforms like **AWS**, **Azure**, and **Firebase**, I deliver robust and scalable web solutions tailored to meet business needs.  
-I am also proficient in **Django Full Stack**, **WAMP Stack**, and **Server Management Automation** using **Bash** for **Web App Development**.  
-Additionally, I have excellent **communication** and **management skills**, making me a great team player and leader. I'm also proficient in **Computer Networking**, **DevOps**, and **System Administration**.
+# 👋 Hi there! 
+
+I’m a **Senior Full-Stack Developer** specializing in **MERN Stack** (MongoDB, Express.js, React.js, Node.js), **PHP**, and **Laravel**. 
+
+With over **8 years of experience**, I’ve had the privilege of collaborating with **70+ companies** worldwide, delivering **high-performance**, **scalable web solutions** across various industries, including:
+
+- **E-commerce**
+- **FinTech**
+- **Healthcare**
+- **Real Estate**
+
+I’m passionate about transforming innovative ideas into robust software solutions that drive business growth, while ensuring **top-notch performance**, **security**, and **scalability**.
+
+## 💡 What I Do:
+- Full-stack development with a focus on MERN & Laravel.
+- Building scalable, responsive, and secure web applications.
+- Optimizing code for high performance and enhanced security.
+- Collaborating with clients to deliver solutions that align with business goals.
+
+Feel free to explore my repositories and connect if you have any questions or collaboration opportunities!
 
 🌐 Currently, I'm exploring **Web 3.0** and working on personal projects in this exciting new field!
 
