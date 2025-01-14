@@ -3,25 +3,68 @@
 ![Header Image](https://staging30.tekkiwebsolutions.com/wp-content/uploads/header-image.png)
 
 
-I am a passionate and highly skilled Full Stack Developer specializing in:
+# Hi there, I'm [Your Name] 👋
 
-MERN/MEVN Stack (MongoDB, Express.js, React.js/Vue.js, Node.js)
-PHP & Laravel
-Django Full Stack
-WAMP Stack
-With a strong foundation in cloud platforms like AWS, Azure, and Firebase, I craft robust, scalable, and tailored web solutions to meet diverse business needs.
+## 🚀 About Me
 
-🛠️ Tech Expertise:
-Server Management Automation: Proficient in scripting with Bash.
-Computer Networking: Skilled in DevOps practices and System Administration.
-Web App Development: Full-stack expertise across frameworks and technologies.
-🌟 What I’m Exploring:
-Currently diving into the world of Web 3.0 and working on exciting personal projects in this space.
+I am a highly skilled **Full Stack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), **PHP**, and **Laravel**. With a deep understanding of cloud platforms like **AWS**, **Azure**, and **Firebase**, I deliver robust and scalable web solutions tailored to meet business needs.  
+I am also proficient in **Django Full Stack**, **WAMP Stack**, and **Server Management Automation** using **Bash** for **Web App Development**.  
+Additionally, I have excellent **communication** and **management skills**, making me a great team player and leader. I'm also proficient in **Computer Networking**, **DevOps**, and **System Administration**.
 
-📢 Communication & Leadership:
-Strong interpersonal and management skills enable me to effectively lead teams and collaborate with stakeholders.
+🌐 Currently, I'm exploring **Web 3.0** and working on personal projects in this exciting new field!
 
-Feel free to customize further by adding a personal touch, such as links to your portfolio, projects, or social profiles. Would you like help integrating these?
+## 💻 Tech Stack
+
+- **MERN Stack**: MongoDB, Express.js, React.js, Node.js
+- **PHP** & **Laravel**
+- **Django** Full Stack
+- **Cloud Platforms**: AWS, Azure, Firebase
+- **Automation**: Bash Scripts for server management
+
+## 🛠️ Tools & Technologies
+
+- **Frontend**: 
+  - React.js ⚛️
+  - Vue.js 🌐
+  - HTML5 📄
+  - CSS3 🎨
+
+- **Backend**: 
+  - Node.js 🟩
+  - Express.js 🚀
+  - PHP 🐘
+  - Laravel 🧑‍💻
+
+- **Databases**:
+  - MongoDB 🍃
+  - MySQL 🗄️
+  - Firebase 🔥
+
+- **Cloud & DevOps**:
+  - AWS ☁️
+  - Azure 🌀
+  - Firebase 🔧
+  - Docker 🐳
+
+- **Others**:
+  - Git & GitHub 🦸‍♂️
+  - Bash 🖥️
+  - Web 3.0 🌍
+
+## 🌱 Currently Learning
+
+- Exploring Web 3.0 technologies and developing personal projects related to it.
+
+## 📫 How to Reach Me
+
+- Email: [Your email]
+- LinkedIn: [Your LinkedIn]
+- Twitter: [Your Twitter]
+- Personal Website: [Your Website]
+
+Feel free to connect with me, I'd love to collaborate and learn together! 🚀
+
+
 
 ## 🌟 Languages & Tools
 
