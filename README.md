@@ -47,3 +47,7 @@ I am a highly skilled Full Stack Developer specializing in **MERN Stack** (Mongo
 
 </p>
 
+👯 I’m looking to collaborate on **Full Stack Development Projects**.
+
+😄 **Passion:** | Full Stack Developer | Contributor | Web3.0 & DevOps Enthusiast | Coder | Tech Lover | Music Enthusiast
+
