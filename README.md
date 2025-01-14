@@ -24,7 +24,6 @@ I’m passionate about transforming innovative ideas into robust software soluti
 - Optimizing code for high performance and enhanced security.
 - Collaborating with clients to deliver solutions that align with business goals.
 
-🌐 Currently, I'm exploring **Web 3.0** and working on personal projects in this exciting new field!
 
 ## 💻 Tech Stack
 
