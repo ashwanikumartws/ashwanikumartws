@@ -3,8 +3,25 @@
 ![Header Image](https://staging30.tekkiwebsolutions.com/wp-content/uploads/header-image.png)
 
 
-I am a highly skilled Full Stack Developer specializing in **MERN Stack** (MongoDB, Express.js, React.js, Node.js), **PHP**, and **Laravel**. With a deep understanding of cloud platforms like **AWS**, **Azure**, and **Firebase**, I deliver robust and scalable web solutions tailored to meet business needs.
+I am a passionate and highly skilled Full Stack Developer specializing in:
 
+MERN/MEVN Stack (MongoDB, Express.js, React.js/Vue.js, Node.js)
+PHP & Laravel
+Django Full Stack
+WAMP Stack
+With a strong foundation in cloud platforms like AWS, Azure, and Firebase, I craft robust, scalable, and tailored web solutions to meet diverse business needs.
+
+🛠️ Tech Expertise:
+Server Management Automation: Proficient in scripting with Bash.
+Computer Networking: Skilled in DevOps practices and System Administration.
+Web App Development: Full-stack expertise across frameworks and technologies.
+🌟 What I’m Exploring:
+Currently diving into the world of Web 3.0 and working on exciting personal projects in this space.
+
+📢 Communication & Leadership:
+Strong interpersonal and management skills enable me to effectively lead teams and collaborate with stakeholders.
+
+Feel free to customize further by adding a personal touch, such as links to your portfolio, projects, or social profiles. Would you like help integrating these?
 
 ## 🌟 Languages & Tools
 
