@@ -72,34 +72,6 @@ I’m passionate about transforming innovative ideas into robust software soluti
 - **Cloud Platforms**: AWS, Azure, Firebase
 - **Automation**: Bash Scripts for server management
 
-## 🛠️ Tools & Technologies
-
-- **Frontend**: 
-  - React.js ⚛️
-  - Vue.js 🌐
-  - HTML5 📄
-  - CSS3 🎨
-
-- **Backend**: 
-  - Node.js 🟩
-  - Express.js 🚀
-  - PHP 🐘
-  - Laravel 🧑‍💻
-
-- **Databases**:
-  - MongoDB 🍃
-  - MySQL 🗄️
-  - Firebase 🔥
-
-- **Cloud & DevOps**:
-  - AWS ☁️
-  - Azure 🌀
-  - Firebase 🔧
-  - Docker 🐳
-
-- **Others**:
-  - Git & GitHub 🦸‍♂️
-  - Bash 🖥️
 
 ##👯 I’m looking to collaborate on **Full Stack Development Projects**.
 
