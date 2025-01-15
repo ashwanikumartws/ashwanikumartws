@@ -101,23 +101,6 @@ I’m passionate about transforming innovative ideas into robust software soluti
   - Git & GitHub 🦸‍♂️
   - Bash 🖥️
 
-
-## 🌍 Where To Find Me
-
-<p>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-</p>
-
 ##👯 I’m looking to collaborate on **Full Stack Development Projects**.
 
 😄 **Passion:** | Full Stack Developer | Contributor |  DevOps Enthusiast | Coder | Tech Lover | Music Enthusiast
