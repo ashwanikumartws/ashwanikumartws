@@ -101,9 +101,6 @@ I’m always open to exciting projects! Feel free to reach out for:
 
 🚀 **Let’s build something amazing together!** 
 
-
-##👯 I’m looking to collaborate on **Full Stack Development Projects**.
-
 😄 **Passion:** | Full Stack Developer | Contributor |  DevOps Enthusiast | Coder | Tech Lover | Music Enthusiast
 
 
