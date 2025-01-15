@@ -57,20 +57,49 @@ I’m passionate about transforming innovative ideas into robust software soluti
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 💡 What I Do:
-- Full-stack development with a focus on MERN & Laravel.
-- Building scalable, responsive, and secure web applications.
-- Optimizing code for high performance and enhanced security.
-- Collaborating with clients to deliver solutions that align with business goals.
+## 💡 Key Focus Areas  
+- 🌐 **Full-Stack Development & Scalable Solutions**  
+- 💻 **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+- 🛠️ **Custom Web Applications**  
+- 💳 **Payment Gateway Integration**  
+- 🏢 **Industries:** Real Estate, Healthcare, FinTech, E-commerce  
+- 🚚 **AI-Powered Logistics & Route Optimization**  
 
+---
 
-## 💻 Tech Stack
+## 🌟 My Expertise  
 
-- **MERN Stack**: MongoDB, Express.js, React.js, Node.js
-- **PHP** & **Laravel**
-- **Django** Full Stack
-- **Cloud Platforms**: AWS, Azure, Firebase
-- **Automation**: Bash Scripts for server management
+### 🖥️ **Full-Stack Development**  
+- 🌐 Scalable Web Applications  
+- ⚙️ MERN Stack Development (React.js, Node.js, MongoDB)  
+- 🔐 Authentication & Authorization  
+- 💳 Payment Gateway Integration  
+
+### 📊 **Backend Engineering**  
+- 📡 RESTful APIs & Microservices Architecture  
+- ☁️ Cloud Solutions (AWS, Azure, Firebase)  
+- 🔧 DevOps & CI/CD Implementation  
+
+### 🗃️ **Database Management**  
+- 🛠️ Database Design & Optimization  
+- 🔄 SQL/NoSQL Integration  
+- 🔐 Database Security & Scalability  
+
+### 📈 **Project Management & Collaboration**  
+- ⚙️ Agile Methodology, Scrum  
+- 🛠️ Tools: Jira, Trello, Asana  
+- 🤝 Team Collaboration & Leadership  
+
+---
+
+## 📫 Let’s Connect!  
+
+I’m always open to exciting projects! Feel free to reach out for:  
+- 💻 Collaborations  
+- 📚 Consultations  
+- 💬 Chats about web development, full-stack engineering, or tech trends  
+
+🚀 **Let’s build something amazing together!** 
 
 
 ##👯 I’m looking to collaborate on **Full Stack Development Projects**.
