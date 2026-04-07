@@ -1,6 +1,6 @@
  ## Hello👋. Thank you for visiting my profile 👩🏾‍💻 
 
-![Header Image](https://staging30.tekkiwebsolutions.com/wp-content/uploads/header-image.png)
+![Header Image](https://www.tekkiwebsolutions.com/wp-content/uploads/Header-Image-1.png)
 
 ## 🚀 About Me
 
