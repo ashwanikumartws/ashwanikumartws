@@ -1,6 +1,6 @@
  ## Hello👋. Thank you for visiting my profile 👩🏾‍💻 
 
-![Header Image](https://www.tekkiwebsolutions.com/wp-content/uploads/Header-Image-1.png)
+![Header Image](https://www.tekkiwebsolutions.com/wp-content/uploads/Header-images.png)
 
 ## 🚀 About Me
 
